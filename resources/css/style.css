@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.white {
+    color: whitesmoke
+}
+
+.gray {
+    color: gray
+}
+
+.aqua {
+    color: aquamarine
+}
+
+.fifty {
+    font-size: 50px;
+}
+
+.sixteen {
+    font-size: 16px;
+}
+
+.fourtytwo {
+    font-size: 42px;
+}
+
+.twentyone {
+    font-size: 21px;
+}
+
+.normal {
+    font-weight: normal
+}
+
+.three {
+    font-weight: 300;
+}
+
+.right {
+    text-align: right
+}
